@@ -46,7 +46,7 @@ The game rewards **pure reasoning** — no luck, no randomness. Every level has 
 
 | Gameplay Screen | Level Cleared | Out of Moves |
 |:-:|:-:|:-:|
-| ![Gameplay](https://via.placeholder.com/200x380/0D0F1A/00E5FF?text=LVL+2+%0A%0A%E2%97%8F%E2%86%92E%0A%E2%86%91%E2%97%8F%E2%97%8B%0AS%E2%86%90%E2%97%8F) | ![Cleared](https://via.placeholder.com/200x380/0D0F1A/00FF88?text=%E2%9C%93+Level%0ACleared!%0A%0A%E2%98%85+%E2%98%85+%E2%98%85%0APerfect!) | ![Fail](https://via.placeholder.com/200x380/0D0F1A/FF2D78?text=%F0%9F%92%94+Out+of%0AMoves!%0A%0ATry+Again) |
+| C:\Users\Ankush\OneDrive\Pictures\Screenshots| ![Cleared](https://via.placeholder.com/200x380/0D0F1A/00FF88?text=%E2%9C%93+Level%0ACleared!%0A%0A%E2%98%85+%E2%98%85+%E2%98%85%0APerfect!) | ![Fail](https://via.placeholder.com/200x380/0D0F1A/FF2D78?text=%F0%9F%92%94+Out+of%0AMoves!%0A%0ATry+Again) |
 | *Navigate the grid carefully* | *3-star perfect solve* | *Wrong moves cost lives* |
 
 </div>
@@ -407,7 +407,7 @@ git push origin feature/your-feature-name
 
 ## 🐛 Bug Reports & Feature Requests
 
-Found a bug or have an idea? [Open an issue](https://github.com/yourusername/arrowance/issues) with:
+Found a bug or have an idea? [Open an issue](https://github.com/AK-SINGH-0/Arrowance/issues) with:
 
 - 📋 **Bug**: Steps to reproduce, expected vs actual behavior, device info
 - 💡 **Feature**: What problem it solves, proposed implementation idea
@@ -446,6 +446,7 @@ copies of the Software.
 ## 👨‍💻 About the Developer
 
 <div align="center">
+Developer: Ankush Kumar
 
 Built with ❤️ and lots of ☕ for puzzle enthusiasts who love mathematical challenges.
 
