@@ -46,7 +46,10 @@ The game rewards **pure reasoning** — no luck, no randomness. Every level has 
 
 | Gameplay Screen | Level Cleared | Out of Moves |
 |:-:|:-:|:-:|
-| C:\Users\Ankush\OneDrive\Pictures\Screenshots| ![Cleared](https://via.placeholder.com/200x380/0D0F1A/00FF88?text=%E2%9C%93+Level%0ACleared!%0A%0A%E2%98%85+%E2%98%85+%E2%98%85%0APerfect!) | ![Fail](https://via.placeholder.com/200x380/0D0F1A/FF2D78?text=%F0%9F%92%94+Out+of%0AMoves!%0A%0ATry+Again) |
+|<img width="627" height="880" alt="Screenshot 2026-04-17 215121" src="https://github.com/user-attachments/assets/e074e1b7-20b9-4ebb-958f-221111f915d7" />
+|<img width="626" height="875" alt="Screenshot 2026-04-17 214827" src="https://github.com/user-attachments/assets/07fdc314-b665-49f5-a41a-9bca5bfc541d" />
+|<img width="624" height="877" alt="Screenshot 2026-04-17 214641" src="https://github.com/user-attachments/assets/51dc082e-7a5b-4cfd-ac4c-640fef8b6442" />
+|
 | *Navigate the grid carefully* | *3-star perfect solve* | *Wrong moves cost lives* |
 
 </div>
@@ -418,10 +421,10 @@ Found a bug or have an idea? [Open an issue](https://github.com/AK-SINGH-0/Arrow
 
 <div align="center">
 
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/arrowance?style=for-the-badge&color=FFD700&logo=github)
-![GitHub Forks](https://img.shields.io/github/forks/yourusername/arrowance?style=for-the-badge&color=00E5FF&logo=github)
-![GitHub Issues](https://img.shields.io/github/issues/yourusername/arrowance?style=for-the-badge&color=FF2D78&logo=github)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/yourusername/arrowance?style=for-the-badge&color=00FF88&logo=github)
+![GitHub Stars](https://github.com/AK-SINGH-0/Arrowance?style=for-the-badge&color=FFD700&logo=github)
+![GitHub Forks](https://github.com/AK-SINGH-0/Arrowance?style=for-the-badge&color=00E5FF&logo=github)
+![GitHub Issues](https://github.com/AK-SINGH-0/Arrowancestyle=for-the-badge&color=FF2D78&logo=github)
+![GitHub Last Commit](https://github.com/AK-SINGH-0/Arrowance?style=for-the-badge&color=00FF88&logo=github)
 
 </div>
 
