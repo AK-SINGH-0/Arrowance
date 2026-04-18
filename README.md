@@ -49,6 +49,13 @@ The game rewards **pure reasoning** — no luck, no randomness. Every level has 
 |<img width="627" height="880" alt="Screenshot 2026-04-17 215121" src="https://github.com/user-attachments/assets/e074e1b7-20b9-4ebb-958f-221111f915d7" />|<img width="626" height="875" alt="Screenshot 2026-04-17 214827" src="https://github.com/user-attachments/assets/07fdc314-b665-49f5-a41a-9bca5bfc541d" />|<img width="624" height="877" alt="Screenshot 2026-04-17 214641" src="https://github.com/user-attachments/assets/51dc082e-7a5b-4cfd-ac4c-640fef8b6442" />|
 | *Navigate the grid carefully* | *3-star perfect solve* | *Wrong moves cost lives* |
 
+|<img width="873" height="403" alt="Screenshot 2026-04-17 220900" src="https://github.com/user-attachments/assets/9e29b0d7-f762-4deb-8c80-7ce0c7f878ee" />
+|
+|<img width="876" height="388" alt="Screenshot 2026-04-17 221216" src="https://github.com/user-attachments/assets/c5bba1be-d561-4c7d-8280-fcfd9577f4f5" />
+|
+|<img width="870" height="475" alt="Screenshot 2026-04-17 221248" src="https://github.com/user-attachments/assets/85be6c8a-7924-45b4-ab24-559547dbccf6" />
+|
+
 </div>
 
 ---
@@ -448,6 +455,9 @@ copies of the Software.
 
 <div align="center">
 Developer: Ankush Kumar
+Linkdin: https://www.linkedin.com/in/ankush-kumar-singh-a685783a8
+My Portfolio: https://ankushkumar-portfolio.netlify.app
+
 
 Built with ❤️ and lots of ☕ for puzzle enthusiasts who love mathematical challenges.
 
