@@ -455,7 +455,9 @@ copies of the Software.
 
 <div align="center">
 Developer: Ankush Kumar
+  
 Linkdin: https://www.linkedin.com/in/ankush-kumar-singh-a685783a8
+
 My Portfolio: https://ankushkumar-portfolio.netlify.app
 
 
