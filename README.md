@@ -46,10 +46,7 @@ The game rewards **pure reasoning** — no luck, no randomness. Every level has 
 
 | Gameplay Screen | Level Cleared | Out of Moves |
 |:-:|:-:|:-:|
-|<img width="627" height="880" alt="Screenshot 2026-04-17 215121" src="https://github.com/user-attachments/assets/e074e1b7-20b9-4ebb-958f-221111f915d7" />
-|<img width="626" height="875" alt="Screenshot 2026-04-17 214827" src="https://github.com/user-attachments/assets/07fdc314-b665-49f5-a41a-9bca5bfc541d" />
-|<img width="624" height="877" alt="Screenshot 2026-04-17 214641" src="https://github.com/user-attachments/assets/51dc082e-7a5b-4cfd-ac4c-640fef8b6442" />
-|
+|<img width="627" height="880" alt="Screenshot 2026-04-17 215121" src="https://github.com/user-attachments/assets/e074e1b7-20b9-4ebb-958f-221111f915d7" />|<img width="626" height="875" alt="Screenshot 2026-04-17 214827" src="https://github.com/user-attachments/assets/07fdc314-b665-49f5-a41a-9bca5bfc541d" />|<img width="624" height="877" alt="Screenshot 2026-04-17 214641" src="https://github.com/user-attachments/assets/51dc082e-7a5b-4cfd-ac4c-640fef8b6442" />|
 | *Navigate the grid carefully* | *3-star perfect solve* | *Wrong moves cost lives* |
 
 </div>
@@ -61,10 +58,10 @@ The game rewards **pure reasoning** — no luck, no randomness. Every level has 
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│   ◉ ──→── ◉ ──→── E          RULES:                   │
-│   │                           ✦ Start from  S (green)  │
-│   ↑                           ✦ Reach       E (red)    │
-│   │                           ✦ Visit EVERY node once  │
+│   ◉ ──→── ◉ ──→── E          RULES:                    │
+│   │                           ✦ Start from  S (green)   │
+│   ↑                           ✦ Reach       E (red)     │
+│   │                           ✦ Visit EVERY node once   │
 │   ◉ ──→── ◉ ──←── ◉          ✦ No node skipped        │
 │                               ✦ One valid path only     │
 │   S ──↑                                                 │
@@ -421,10 +418,11 @@ Found a bug or have an idea? [Open an issue](https://github.com/AK-SINGH-0/Arrow
 
 <div align="center">
 
-![GitHub Stars](https://github.com/AK-SINGH-0/Arrowance?style=for-the-badge&color=FFD700&logo=github)
-![GitHub Forks](https://github.com/AK-SINGH-0/Arrowance?style=for-the-badge&color=00E5FF&logo=github)
-![GitHub Issues](https://github.com/AK-SINGH-0/Arrowancestyle=for-the-badge&color=FF2D78&logo=github)
-![GitHub Last Commit](https://github.com/AK-SINGH-0/Arrowance?style=for-the-badge&color=00FF88&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/AK-SINGH-0/arrowance?style=for-the-badge&color=FFD700&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/AK-SINGH-0/arrowance?style=for-the-badge&color=00E5FF&logo=github)
+![GitHub Issues](https://img.shields.io/github/issues/AK-SINGH-0/arrowance?style=for-the-badge&color=FF2D78&logo=github)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/AK-SINGH-0/arrowance?style=for-the-badge&color=00FF88&logo=github)
+
 
 </div>
 
@@ -435,7 +433,7 @@ Found a bug or have an idea? [Open an issue](https://github.com/AK-SINGH-0/Arrow
 ```
 MIT License
 
-Copyright (c) 2025 Arrowance
+Copyright (c) 2026 Arrowance
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
